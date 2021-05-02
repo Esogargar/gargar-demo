@@ -43,7 +43,7 @@ h3 {
  p {
 font-size: small;
 font-weight: lighter;
-line-height: 18px;
+line-height: 20px;
 }
 .contact_info {
     display: flex;
@@ -90,17 +90,17 @@ a {
     border-bottom: 2px solid  rgb(8, 71, 71);
 }
 .work {
-    margin: 20px;
+    margin: 30px 10px;
 }
 .work h4 {
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 .work h5 {
     font-weight: bolder;
     margin-bottom: 5px;
 }
 .work h6 {
-    font-weight: lighter;
+    font-weight: 500;
     line-height: 15px;
 
 }
